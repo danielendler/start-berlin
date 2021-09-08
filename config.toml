@@ -1,0 +1,97 @@
+# This is a simple configuration.
+# If you want to see the full configuration, please check `full-config.toml` .
+# And see https://gohugo.io/getting-started/configuration/ .
+
+baseURL = "http://localhost:1313/"
+enableRobotsTXT = true
+enableEmoji = true
+theme = "jane"
+
+hasCJKLanguage = false     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
+paginate = 3              # Number of articles displayed on the homepage  # 首页每页显示的文章数
+rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
+disqusShortname = ""      # disqus_shortname
+googleAnalytics = ""      # UA-XXXXXXXX-X
+copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
+
+# language support # en / zh-cn / other... translations present in i18n/
+defaultContentLanguage = "en"           # Default language to use
+
+showAuthorCard = false
+
+
+[author]                  # essential                     # 必需
+  name = ""
+
+[sitemap]                 # essential                     # 必需
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[languages.en]
+  title = "Getting settled in Berlin 🐻"
+  languageCode = "en"
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 1
+  customFooter = "❤ from Berlin "
+
+[languages.de]
+  title = "Fuß fassen in Berlin 🐻"
+  languageCode = "de"
+  languageName = "Deutsch"
+  contentDir = "content/de"
+  weight = 2
+  customFooter = "❤ aus Berlin "
+
+
+[params]
+  since = "2020"            # Site creation time          # 站点建立时间
+  homeFullContent = false   # if false, show post summaries on home page. Otherwise show full content.
+  rssFullContent = true     # if false, Rss feed instead of the summary
+
+  # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
+  # logoTitle = "Setting foot in Berlin"        # default: the title value    # 默认值: 上面设置的title值
+  keywords = ["Berlin", "migration","setting foot","Imigration"]
+  description = "Let's make others feel welcome in Berlin"
+
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
+
+  # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
+  # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
+  toc = true                                                                            # 是否开启目录
+  photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            # 是否启用PhotoSwipe（图片可点击）
+  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  customCSS = []            # if ['custom.css'], load '/static/css/custom.css' file
+  customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
+
+  showMenuLanguageChooser = true
+  showAuthorInfo = false
+  
+
+  [params.social]                                         # 社交链接
+    # a-email = "mailto:your@email.com"
+    # b-stack-overflow = "http://localhost:1313"
+    # c-twitter = "http://localhost:1313"
+    # d-facebook = "http://localhost:1313"
+    # e-linkedin = "http://localhost:1313"
+    # f-google = "http://localhost:1313"
+    # g-github = "http://localhost:1313"
+    # h-weibo = "http://localhost:1313"
+    # i-zhihu = "http://localhost:1313"
+    # j-douban = "http://localhost:1313"
+    # k-pocket = "http://localhost:1313"
+    # l-tumblr = "http://localhost:1313"
+    # m-instagram = "http://localhost:1313"
+    # n-gitlab = "http://localhost:1313"
+    # o-goodreads = "http://localhost:1313"
+    # p-coding = "http://localhost:1313"
+    # q-bilibili = "http://localhost:1313"
+    # r-codeforces = "http://localhost:1313"
+    # s-mastodon = "http://localhost:1313"
+    # t-youtube = "http://localhost:1313"
+    # u-twitch = "http://localhost:1313"
