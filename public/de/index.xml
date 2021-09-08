@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Fuß fassen in Berlin 🐻</title>
+    <link>http://localhost:1313/de/</link>
+    <description>Recent content in Home on Fuß fassen in Berlin 🐻</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projekt</title>
+      <link>http://localhost:1313/de/project/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/project/</guid>
+      
+        <description>&lt;h1 id=&#34;wie-es-anfing&#34;&gt;Wie es anfing&lt;/h1&gt;
+&lt;h1 id=&#34;unser-ziel&#34;&gt;Unser Ziel&lt;/h1&gt;
+&lt;h1 id=&#34;was-wir-machen&#34;&gt;Was wir machen&lt;/h1&gt;
+&lt;h1 id=&#34;wie-du-helfen-kannst&#34;&gt;Wie du helfen kannst&lt;/h1&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/de/legal/imprint/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/de/legal/imprint/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privacy policy</title>
+      <link>http://localhost:1313/de/legal/privacy-policy/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/de/legal/privacy-policy/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sponsoren</title>
+      <link>http://localhost:1313/de/sponsors/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/de/sponsors/</guid>
+      
+        <description>&lt;p&gt;Wer ist hinter dem Projekt?&lt;/p&gt;
+&lt;h1 id=&#34;andreas&#34;&gt;Andreas&lt;/h1&gt;
+&lt;h1 id=&#34;cornelia&#34;&gt;Cornelia&lt;/h1&gt;
+&lt;h1 id=&#34;daniel-endler&#34;&gt;Daniel Endler&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/endler/&#34;&gt;Daniel auf LinkedIn&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;sleman&#34;&gt;Sleman&lt;/h1&gt;
+&lt;h1 id=&#34;philip&#34;&gt;Philip&lt;/h1&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Familie</title>
+      <link>http://localhost:1313/de/family/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/de/family/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spenden</title>
+      <link>http://localhost:1313/de/donate/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/de/donate/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
