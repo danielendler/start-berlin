@@ -12,9 +12,9 @@ Who is behind this project?
 # Cornelia
 
 # Daniel Endler
-Daniel is Germna / Brazilian and calls Berlin his hoem since 2015. He is a product manager in fintech startups, where he also met Philip and Cornelia.
+Daniel is German / Brazilian and calls Berlin his home since 2015. He is a product manager in fintech startups, where he also met Philip and Cornelia.
 
-> I really want to help Sleman's family get settled in Berlin. Every family deserves a place to feel safe and welcomed. I really hope we can learn from this expeirnce and help more poeple come to Germany.
+> I really want to help Sleman's family get settled in Berlin. Every family deserves a place to feel safe and welcomed. I really hope we can learn from this experience and help more people come to Germany.
 
 [Daniel on LinkedIn](https://www.linkedin.com/in/endler/)
 

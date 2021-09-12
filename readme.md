@@ -24,8 +24,8 @@ Hugo creates static websites based on markdown files.
 ## Content structure
 
 The content of the page is multi-lingual, namely in `en` and in `de`.
-The contetn is structured in the `content` folder.
-All the files need to exist in both folders, for the mulit-lingual set-up to be identified.
+The content is structured in the `content` folder.
+All the files need to exist in both folders, for the multi-lingual set-up to be identified.
 
 ```
 .
@@ -75,6 +75,20 @@ weight: -10
 ```
 
 Just place your content under the `---` area.
+
+## Links between content pieces
+
+You can add links to others peices of content through this code: 
+```
+[Sponsors]({{< ref "sponsors" >}} )
+  └ Name link          └ File name
+```
+
+You can slo link directly to an achor on a site by using:
+```
+[Sleman's]({{< ref "sponsors#sleman" >}} ) 
+   └ Name link        └ File    └ anchor
+```
 
 # Deployment
 Netflify is configured to always deploy on every push to the `main` branch. The badge above shows if the deployment was successful.
