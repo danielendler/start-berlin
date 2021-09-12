@@ -7,15 +7,14 @@ weight: -10
 
 
 # How it started
-We (the [Sponsors]({{< ref "sponsors" >}} )) came together to help bring [Sleman's]({{< ref "sponsors#sleman" >}} ) [family]({{< ref "family" >}} ) from Syria to Berlin. Sleman can as a refugee to Germany in 20XX. Since then he has managed to settle in Berlin. He is about to finish his studies and also has a job.
+We (the [Sponsors]({{< ref "sponsors" >}} )) came together to help bring [Sleman's]({{< ref "sponsors#sleman" >}} ) [family]({{< ref "family" >}} ) from Syria to Berlin. Sleman can as a refugee to Germany in 20XX. Since then he has managed to settle in Berlin. He is about to finish his studies in social work and also works as social worker on the side.
 
-Sleman has his remaining family in Syria. At the current stage, the German government doesn't allow refugees to bring their respective families easily to a safe home.
+Also Sleman managed to make the dangerous journey as a refugee to Germany, parts of his family with young children could not take this path. Also, they shouldn't have to risk their lives simply to have a chance at a peaceful life. Unfortunately the  "refugee family reunion" regulations didn't allow Sleman to get his brother and family to a safe home in Germany. 
+But the city of Berlin offers an alternative: If private individuals ("sponsors") guarantuee to take over the full living costs of the persons coming to Germany (so-called "Verpflichtungserklärung"), his family would be able to come to Germany with a long-term visa. 
 
-There is one possibility, though: through a Verpflichtungserklärung, individuals sign papers and take the financial responsibility of potential social costs the government would have to pay.
+This is where, we sponsors, come in. Each of us has agreed to take over the living costs of one or more family member, in case they are not able to make a living on their own. After a long bureaucratic experience and in a process that took over 1 year, we finally managed to have Sleman's family arrive safe in Berlin in July 2021.
 
-This is where, we sponsors, come in. Each of us has agreed to take responsibility of one family member. After a long bureaucratic experience and in a process that took over 1 year, we finally managed to have Sleman's family arrive safe in Berlin in July 2021.
-
-Now, one ca say, the real work begins. We know that real integration and a safe environment can only be archived through a set of:
+Now, one can say, the real work begins. We know that real integration, a safe environment and foremost a self-determined life can only be archived through a set of:
 * housing
 * jobs
 * school
@@ -23,7 +22,7 @@ Now, one ca say, the real work begins. We know that real integration and a safe 
 
 # Our goal
 First and foremost we want to support Sleman's family to feel welcome and integrated in Berlin, Germany.
-We truly believe that the family has an intrinsic motivation to get settles  and to feel integrated in Berlin. At the same time we do recognize how daunting and complex german bureaucracy can be and how a network of support can come to help.
+We truly believe that the family has high hopes & motivation to get settled and to feel integrated in Berlin. At the same time we do recognize how daunting and complex German bureaucracy can be and how a network of support can come to help.
 
 This is why we focus on material, organizational and emotional support.
 
@@ -36,7 +35,7 @@ You can help in two ways:
 
 ## Donations
 Donations are there to create a financial stability buffer for the family.
-Getting settled in Berlin with a job, such that the family is self-sufficient will take time. While the family has brought some money from Syria, we believe this should be left for emergency cases.
+Getting settled in Berlin with a job, such that the family is self-sufficient will take time. 
 
 ### How donations will be used
 Donations are done through a non-profit organisation X.
