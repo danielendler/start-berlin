@@ -22,7 +22,29 @@ Now, one ca say, the real work begins. We know that real integration and a safe 
 * social integration
 
 # Our goal
+First and foremost we want to support Sleman's family to feel welcome and integrated in Berlin, Germany.
+We truly believe that the family has an intrinsic motivation to get settles  and to feel integrated in Berlin. At the same time we do recognize how daunting and complex german bureaucracy can be and how a network of support can come to help.
 
-# What do we do
+This is why we focus on material, organizational and emotional support.
+
+But after we see their successful integration our goal is to extend this program to other families and cases. This might be by direct support or just in form of a knowledge base and best practices, in form of this website.
 
 # How you can you help
+You can help in two ways:
+* Through donations
+* Through referrals, links and suggestions for the most pressing needs of the family
+
+## Donations
+Donations are there to create a financial stability buffer for the family.
+Getting settled in Berlin with a job, such that the family is self-sufficient will take time. While the family has brought some money from Syria, we believe this should be left for emergency cases.
+
+### How donations will be used
+Donations are done through a non-profit organisation X.
+This organisation then lends this amount to the family. The handshake agreement is the following:
+> 50% of the amount is a gift
+>
+> 50% are a loan with no interest and no specific due day
+
+The idea is that the family understands this money should partially be paid back to the non-profit organization, so that it can help further future cases.
+
+Through the page [donate]({{< ref "donate" >}} ) you can fid the financial details and how to get a donations receipt.
