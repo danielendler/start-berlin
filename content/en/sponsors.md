@@ -21,7 +21,7 @@ Daniel is German / Brazilian and calls Berlin his home since 2015. He is a produ
 # Sleman
 
 # Philip Billaudelle
-Philip is originally from Berlin and met Sleman at a party of a common friend shortly after Sleman arrived in Berlin in 2016. They become close friends over the last 5 years. He works now as co-founder of early-stage health tech startup. 
+Philip is originally from Berlin and met Sleman at a party of a common friend shortly after Sleman arrived in Berlin in 2016. They become close friends over the last 5 years. Philip works now as co-founder of an early-stage health tech startup. 
 
 > When I heard about the problems Slemans family was facing in Syria, it was clear to me that I wanted to help. Ultimately that's what good friends are there for. 
 
